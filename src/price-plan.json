@@ -1,0 +1,36 @@
+[
+    {
+        "subname":"BROWNS",
+        "icon":"public/price-card/price-icon1.png",
+        "li1":"Personal Trainer",
+        "li2":"Service Locker Room",
+        "li3":"Fitness Assessment",
+        "li4":"Morning Slot",
+        "li5":"Yoga Classes",
+        "li6":"Health Checkup",
+        "price":"$25.99 "
+    },
+    {
+        "subname":"SILVER",
+        "icon":"public/price-card/price-icon2.png",
+        "li1":"Personal Trainer",
+        "li2":"Service Locker Room",
+        "li3":"Fitness Assessment",
+        "li4":"Morning Slot",
+        "li5":"Yoga Classes",
+        "li6":"Health Checkup",
+        "price":"$99.99 "
+    },
+    {
+        "subname":"GOLD",
+        "icon":"public/price-card/price-icon3.png",
+        "li1":"Personal Trainer",
+        "li2":"Service Locker Room",
+        "li3":"Fitness Assessment",
+        "li4":"Morning Slot",
+        "li5":"Yoga Classes",
+        "li6":"Health Checkup",
+        "price":"$149.99 "  
+    }
+    
+]

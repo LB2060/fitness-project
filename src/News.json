@@ -1,0 +1,23 @@
+[
+    {
+        "photo":"public/news/blog_img01.jpg",
+        "time":"7 March, 2025",
+        "profile":"By Lee Felix",
+        "title":"Praesent justo mauris, tincidunt vitae nisi ultricies.",
+        "info":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    },
+    {
+        "photo":"public/news/blog_img02.jpg",
+        "time":"20 August, 2027",
+        "profile":"By Jung Eunsung",
+        "title":"Monthly eraesent justo mauris, vitae nisi ultricies.",
+        "info":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    },
+    {
+        "photo":"public/news/blog_img03.jpg",
+        "time":"28 December, 2032",
+        "profile":"By Osamu Dazai",
+        "title":"User Experience Psychology And Performance Smashing",
+        "info":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    }
+]

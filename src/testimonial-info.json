@@ -1,0 +1,26 @@
+[
+    {
+        "profile":"public/testimonial/testimonial-img.png",
+        "name":"Steven Roagers",
+        "profession":"CEO & Founder",
+        "comment":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    },
+    {
+        "profile":"public/testimonial/testimonial-img.png",
+        "name":"Bruce Benner",
+        "profession":"Sales Executive",
+        "comment":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    },
+    {
+        "profile":"public/testimonial/testimonial-img.png",
+        "name":"Tony Stark",
+        "profession":"Web Developer",
+        "comment":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    },
+    {
+        "profile":"public/testimonial/testimonial-img.png",
+        "name":"Peter Parker",
+        "profession":"MD & Founder",
+        "comment":"Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum."
+    }
+]

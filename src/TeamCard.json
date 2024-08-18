@@ -1,0 +1,38 @@
+[
+    {
+        "img":"public/pages/Team-page/team01.png",
+        "name":"John Jackson",
+        "prof":"Trener",
+        "date":"Working Since 2010"
+    },
+    {
+        "img":"public/pages/Team-page/team02.png",
+        "name":"Phiebe Thunderman",
+        "prof":"Consultant",
+        "date":"Working Since 2015"
+    },
+    {
+        "img":"public/pages/Team-page/team03.png",
+        "name":"Justin Bieber",
+        "prof":"SALES MANAGER",
+        "date":"Working Since 2004"
+    },
+    {
+        "img":"public/pages/Team-page/team02.png",
+        "name":"Lila Chen",
+        "prof":"Internist, General Practitoner",
+        "date":"Working Since 2020"
+    },
+    {
+        "img":"public/pages/Team-page/team03.png",
+        "name":"Olaph Pumpkin",
+        "prof":"MANAGER",
+        "date":"Working Since 2024"
+    },
+    {
+        "img":"public/pages/Team-page/team01.png",
+        "name":"Henry Hart",
+        "prof":"Internist",
+        "date":"Working Since 2001"
+    }
+]

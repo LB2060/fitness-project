@@ -1,0 +1,65 @@
+[
+    {
+        "img":"public/pages/Shop-page/img4.jpg",
+        "name":"Chair",
+        "product":"Bakari Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img5.jpg",
+        "name":"Cloths",
+        "product":"Romada Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img6.jpg",
+        "name":"CLight",
+        "product":"Sikkar Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img7.jpg",
+        "name":"Headphone",
+        "product":"Minners Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img8.jpg",
+        "name":"Table",
+        "product":"Dolando Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img9.jpg",
+        "name":"Cloths",
+        "product":"Romada Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img1.jpg",
+        "name":"Cloths",
+        "product":"Medidove Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img2.jpg",
+        "name":"Cloths",
+        "product":"Legend Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    },
+    {
+        "img":"public/pages/Shop-page/img3.jpg",
+        "name":"Table",
+        "product":"Akari Product",
+        "price":"$95.00",
+        "sale":"$120.00"
+    }
+]

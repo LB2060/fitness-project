@@ -1,0 +1,22 @@
+[
+    {
+        "icon":"/build-life/s-icon1.png",
+        "title":"Yoga",
+        "description":"Nam pellentesque, velit at sodales elementum, neque metus ultricies justo, eget varius diam justo ac ante."
+    },
+    {
+        "icon":"/build-life/s-icon2.png",
+        "title":"Dance",
+        "description":"Nam pellentesque, velit at sodales elementum, neque metus ultricies justo, eget varius diam justo ac ante."
+    },
+    {
+        "icon":"/build-life/s-icon3.png",
+        "title":"Fitness",
+        "description":"Nam pellentesque, velit at sodales elementum, neque metus ultricies justo, eget varius diam justo ac ante."
+    },
+    {
+        "icon":"/build-life/s-icon4.png",
+        "title":"Health",
+        "description":"Nam pellentesque, velit at sodales elementum, neque metus ultricies justo, eget varius diam justo ac ante."
+    }
+]
